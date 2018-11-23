@@ -1,0 +1,48 @@
+4 1 2 3 -1 -1 0
+You are in front of a big door that leads to a big Castle where there are many difficulties! What do you wan't to do?
+
+0 -1 -1 -1 -1 -1 1
+You are in the road, this road doesn't lead to anything! What do you wan't to do?
+
+-1 -1 -1 0 10 -1 0
+You are in the garden, in the outside of the castle and you find a big tree! What do you wan't to do?
+
+-1 -1 0 -1 -1 -1 0
+You are in the garden, in the outside of the castle and you can see beatiful flowers! What do you wan't to do?
+
+5 0 -1 -1 -1 -1 1
+You are inside of the castle, you only have one way in front of you! What do you wan't to do?
+
+9 4 6 13 -1 -1 0
+You are in the main room of the castle you can go to north or west... Where do you wan't to go?
+
+7 8 -1 5 -1 -1 0
+You are in a empty room with a bookshelf, you can go to north or south... What do you wan't to do?
+
+-1 6 -1 -1 -1 12 0
+You are in a room with a stairs that go down! What do you wan't to do?
+
+6 -1 -1 -1 11 -1 1
+You are in the kitchen with a stairs that go up! What do you wan't to do?
+
+-1 5 -1 -1 15 -1 0
+You are in a room with a stairs that go up! What do you wan't to do?
+
+11 -1 -1 -1 -1 2 1
+***You have found a secret room*** What do you wan't to do?
+
+-1 10 -1 -1 -1 8 0
+You are in the castle tower in the armor room! You can see stairs that go down... What do you wan't to do?
+
+-1 -1 -1 -1 7 -1 0
+You are in the castle lab! What do you wan't to do?
+
+-1 -1 5 -1 -1 14 0
+You are in a dark room of the castle but you can see a stairs that go down! What do you wan't to do?
+
+-1 -1 5 -1 13 -1 0
+You are in the castle dungeons! What do you wan't to do?
+
+-1 -1 -1 -1 -1 9 1
+You are in the kings room! What do you wan't to do?
+
