@@ -16,7 +16,7 @@ Will he make it? You decide!
 
 ### Commands
 
-One of the objectives of this project was to use XML DOM in order to reduce the amount of text in the HTML files and to be easier to edit information.
+Tybe help after starting the game to know the commands.
 
 ### The project
 
@@ -24,10 +24,10 @@ To run this project it's necessary to go to the _Debug_ folder and execute the W
 
 For normal run, type:
 ```
- TG2.exe 
+ JogoAventuraV2.exe 
 ```
 
 For Super User run, type:
 ```
- TG2.exe su 
+ JogoAventuraV2.exe su 
 ```
