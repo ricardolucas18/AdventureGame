@@ -12,7 +12,7 @@ The objective was to create an adventure game that ran in Windows CMD.
 
 The game consists in an adventurer that has to make his way through a labyrinth in order to kill the monsters or find the treasure to win.
 
-Will he make it? You decide!
+Can you make it adventurer?
 
 ### Commands
 
